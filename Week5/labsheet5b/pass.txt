@@ -1,0 +1,8 @@
+root:x:0:0:root:/root:/bin/bash
+bin:x:2:2:bin:/bin:/usr/sbin/nologin
+games:x:5:60:games:/usr/games:/usr/sbin/nologin
+blott:x:1000:1000:Stephen Blott,,,:/home/blott:/usr/local/bin/zsh
+mysql:x:110:119:MySQL Server,,,:/nonexistent:/bin/false
+mediatomb:x:121:132:MediaTomb Server,,,:/var/lib/mediatomb:/usr/sbin/nologin
+gitlab-runner:x:999:998:GitLab Runner:/home/gitlab-runner:/bin/bash
+end

@@ -1,0 +1,6 @@
+user-1/word-translation.py.correct
+user-3/reverse-text-on-lines.py.incorrect
+user-2/diamond.py.incorrect
+user-4/lines-to-list.py.correct
+user-3/reverse-text-on-lines.py.correct
+user-4/lines-to-list.py.incorrect

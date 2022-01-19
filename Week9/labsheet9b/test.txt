@@ -1,0 +1,5 @@
+dog
+snake
+cat
+mouse
+elephant

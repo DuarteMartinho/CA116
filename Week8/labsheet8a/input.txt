@@ -1,0 +1,8 @@
+
+And
+  the lamb lies
+
+down
+  on Broadway.
+
+There are three space characters on the end of this line ...   
